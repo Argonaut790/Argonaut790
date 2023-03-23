@@ -1,6 +1,16 @@
-# 💫 About Me:
-enulutimate-year Comuter Science major student from The Chinese University of Hong Kong<br>👀 I’m interested in a lot of stuff<br>🔥 Rope Skipping, Photographing, Cycling, Hiking, Coding ...<br>🎓 I’m currently studying at The Chinese University Of Hong Kong<br>📜 Majoring in Computer Science (Degree)<br>💻 Concentrating on Intelligence Science and Data Analytics<br>🌐 Here is my Personal Website -> https://hkbillson.com/<br>⚙️ I’m currently working on a mini verson of social media<br>📖 I’m currently learning MERN stack<br>📫 How to reach me tung23966373@gmail.com
-
+# ✨ Me, Myself and I
+> "You wanted to program because you saw the amazing things that can be built using programming" —— ***Joma***
+> 
+A Penulutimate-year Comuter Science major student from The Chinese University of Hong Kong<br>
+👀 I’m interested in a lot of stuff<br>
+🔥 Rope Skipping, Photographing, Cycling, Hiking, Coding ...<br>
+🎓 I’m currently studying at The Chinese University Of Hong Kong<br>
+📜 Majoring in Computer Science (Degree)<br>
+💻 Concentrating on Intelligence Science and Data Analytics<br>
+🌐 Here is my [Personal Website](https://hkbillson.com)<br>
+⚙️ I’m currently working on a mini verson of social media<br>
+📖 I’m currently learning MERN stack<br>
+📫 How to reach me <tung23966373@gmail.com>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billson_tung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsehuitung) 
@@ -10,12 +20,7 @@ enulutimate-year Comuter Science major student from The Chinese University of Ho
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Argonaut790&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Argonaut790&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Argonaut790&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Argonaut790&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+<img src="https://devhumor.com/content/uploads/images/December2021/ml_parrot.jpg" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
