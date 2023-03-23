@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
-<h3 align="center">A Comuter Science major student from The Chinese University of Hong Kong</h3>
+<h3 align="center">A Penulutimate-year Comuter Science major student from The Chinese University of Hong Kong</h3>
 
-- 🔭 I’m currently working on **a mini verson of social media**
 
-- 🌱 I’m currently learning **MERN stack**
 
+
+- 👀 I’m interested in a lot of stuff
+- 🔥 Rope Skipping, Photographing, Cycling, Hiking, Coding ...
+- 🎓 I’m currently studying at The Chinese University Of Hong Kong
+- 📜 Majoring in **Computer Science (Degree)**
+- 💻 Concentrating on **Intelligence Science** and **Data Analytics**
+- 🌐 Here is my Personal Website -> https://hkbillson.com/
+- ⚙️ I’m currently working on **a mini verson of social media**
+- 📖 I’m currently learning **MERN stack**
 - 📫 How to reach me **tung23966373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
