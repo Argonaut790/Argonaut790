@@ -1,15 +1,15 @@
 # ✨ Me, Myself and I
 > "You wanted to program because you saw the amazing things that can be built using programming" —— ***Joma***
 > 
-A Penulutimate-year Comuter Science major student from The Chinese University of Hong Kong<br>
+A Final-year (2023-2024) Comuter Science major student from The Chinese University of Hong Kong<br>
 👀 I’m interested in a lot of stuff<br>
 🔥 Rope Skipping, Photographing, Cycling, Hiking, Coding ...<br>
 🎓 I’m currently studying at The Chinese University Of Hong Kong<br>
 📜 Majoring in Computer Science (Degree)<br>
 💻 Concentrating on Intelligence Science and Data Analytics<br>
-🌐 Here is my [Personal Website](https://hkbillson.com)<br>
-⚙️ I’m currently working on a mini verson of social media<br>
-📖 I’m currently learning MERN stack<br>
+<!-- 🌐 Here is my [Personal Website](https://hkbillson.com)<br> -->
+⚙️ I’m currently working on renewing my portfolio web using new tech<br>
+📖 I’m currently learning Typescript, Three.js and some depp learning model using Pytorch<br>
 📫 How to reach me <tung23966373@gmail.com>
 
 ## 🌐 Socials:
