@@ -12,6 +12,8 @@ A Final-year (2023-2024) Comuter Science major student from The Chinese Universi
 📖 I’m currently learning Typescript, Three.js and some depp learning model using Pytorch<br>
 📫 How to reach me <tung23966373@gmail.com>
 
+<a href="https://www.buymeacoffee.com/argonaut790" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/billson_tung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tsehuitung) 
 
