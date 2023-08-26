@@ -50,10 +50,4 @@ A Final-year (2023-2024) Comuter Science major student from The Chinese Universi
 	</table>
 </div>
 
-# 📊 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Argonaut790&theme=dark&hide_border=true&include_all_commits=false&count_private=true" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Argonaut790&theme=dark&hide_border=true" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argonaut790&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="50%">
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
