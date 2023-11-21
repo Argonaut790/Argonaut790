@@ -8,9 +8,10 @@ A Final-year (2023-2024) Comuter Science major student from The Chinese Universi
 📜 Majoring in Computer Science (Degree)<br>
 💻 Concentrating on Intelligence Science and Data Analytics<br>
 <!-- 🌐 Here is my [Personal Website](https://hkbillson.com)<br> -->
-⚙️ I’m currently working on renewing my portfolio web using new tech<br>
-📖 I’m currently learning Typescript, Three.js and some depp learning model using Pytorch<br>
-📫 How to reach me <tung23966373@gmail.com>
+⚙️ I’m currently working on a research that is related to the LLM and utilizing langchain to implement different research paper's implementation such as COT, TOT, ...<br>
+📖 I’m currently learning advance python, typescript ,ML models, and buiding model architecture using tensorflow.<br>
+📫 How to reach me <tung23966373@gmail.com>, <br>
+	if you have interested project or you want international communication, feel free to chat with me :P
 
 <a href="https://www.buymeacoffee.com/argonaut790" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
