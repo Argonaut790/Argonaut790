@@ -1,7 +1,7 @@
 # ✨ Me, Myself and I
 > "You wanted to program because you saw the amazing things that can be built using programming" —— ***Joma***
 > 
-A Final-year (2023-2024) Comuter Science major student from The Chinese University of Hong Kong<br>
+A Master Student majoring in Comuter Science from The Chinese University of Hong Kong<br>
 👀 I’m interested in a lot of stuff<br>
 🔥 Rope Skipping, Photographing, Cycling, Hiking, Coding ...<br>
 🎓 I’m currently studying at The Chinese University Of Hong Kong<br>
